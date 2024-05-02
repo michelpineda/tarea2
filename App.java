@@ -1,3 +1,4 @@
+//Nombre: Michel de los Angeles Pineda Romero. 2024-1364U 1M1-S 
 import java.util.Scanner;
 
 public class ArregloInverso {
